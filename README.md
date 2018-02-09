@@ -3,7 +3,7 @@
 افتح ترنمال وخلي هلامر 
 git clone https://github.com/mist-ar/sadq-hsnet.get
 وراهة خلي هلامر ودوس انتر
-cd matrix
+cd sadq-hsnet
 وراهة خلي هلامر ودوس انتر 
 chmod +x install.sh
 وراهة خلي هلامر ودوس 
